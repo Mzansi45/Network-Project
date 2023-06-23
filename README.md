@@ -17,16 +17,16 @@ To run the image processing network project, follow these steps:
 2. Clone the project repository from GitHub:
 
    ```
-   git clone https://github.com/your-username/image-processing-network-project.git
+   git clone git@github.com:Mzansi45/Network-Project.git
    ```
 
 3. Install the necessary Java dependencies.
 
-4. Install the required Python dependencies for the external API. Detailed instructions for setting up the Python API can be found in the `api/README.md` file.
+4. for API contant me thulabegulube@gmail.com
 
 ## Usage
 
-1. Start the external Python API by following the instructions provided in the `api/README.md` file.
+1. Start the external Python API by following the instructions provided.
 
 2. Run the Java program `ImageProcessingApp.java` to launch the image processing network application.
 
